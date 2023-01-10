@@ -11,9 +11,11 @@ I'm a Front-end Developer based in Lisbon, Portugal.
 - 💬 Ping me about Marketing, Design, Branding, Development, Design Thinking
 
 ### TOP PROJECTS
+- SoulDance Landing Page - [GitHub Here](https://github.com/andregn26/souldance-client) 
+- SoulGram Social Media - [GitHub Client Here](https://github.com/andregn26/SoulGram-client) | [GitHub Server Here](https://github.com/andregn26/SoulGram-server)
 - Atlantida Explorer (Game) - [GitHub Here](https://github.com/andregn26/game--js--Atlandida-Explorer) 
 - SecretSanta (IronHack Project) - [GitHub Here](https://github.com/andregn26/SecretSanta) 
-- MovieScreen (IronHack Project) - [GitHub Here](https://www.linkedin.com/feed/)
+- MovieScreen (IronHack Project) - [GitHub Client Here](https://github.com/andregn26/MovieScreen-client) | [GitHub Server Here](https://github.com/andregn26/MovieScreen-server)
 
 ### CONTACT ME
 
