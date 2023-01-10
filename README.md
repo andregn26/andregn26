@@ -11,9 +11,9 @@ I'm a Front-end Developer based in Lisbon, Portugal.
 - 💬 Ping me about Marketing, Design, Branding, Development, Design Thinking
 
 ### TOP PROJECTS
-- SecretSanta (IronHack Project) - [GitHub Here](https://github.com/andregn26/SecretSanta)
-- SecretSanta (IronHack Project) - [GitHub Here](https://www.linkedin.com/feed/)
-
+- Atlantida Explorer (Game) - [GitHub Here](https://github.com/andregn26/game--js--Atlandida-Explorer) 
+- SecretSanta (IronHack Project) - [GitHub Here](https://github.com/andregn26/SecretSanta) 
+- MovieScreen (IronHack Project) - [GitHub Here](https://www.linkedin.com/feed/)
 
 ### CONTACT ME
 
