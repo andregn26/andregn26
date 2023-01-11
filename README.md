@@ -7,7 +7,7 @@ I'm a Front-end Developer based in Lisbon, Portugal.
 ### BIO
 
 - ⚙️ I use daily: .jsx, .js, .html, .css, .svg, .psd, .ai
-- 🌱 Learning all about React and Vanilla JS
+- 🌱 Learning all about React and TypeScript
 - 💬 Ping me about Marketing, Design, Branding, Development, Design Thinking
 
 ### TOP PROJECTS
