@@ -12,8 +12,8 @@ I'm a Front-end Developer based in Lisbon, Portugal.
 
 ### TOP PROJECTS
 - Atlantida Explorer (Game) - [GitHub Here](https://github.com/andregn26/game--js--Atlandida-Explorer) 
-- SecretSanta (IronHack Project) - [GitHub Here](https://github.com/andregn26/SecretSanta) 
-- MovieScreen (IronHack Project) - [GitHub Client Here](https://github.com/andregn26/MovieScreen-client) | [GitHub Server Here](https://github.com/andregn26/MovieScreen-server)
+- SecretSanta - [GitHub Here](https://github.com/andregn26/SecretSanta) 
+- MovieScreen - [GitHub Client Here](https://github.com/andregn26/MovieScreen-client) | [GitHub Server Here](https://github.com/andregn26/MovieScreen-server)
 
 ### CONTACT ME
 
